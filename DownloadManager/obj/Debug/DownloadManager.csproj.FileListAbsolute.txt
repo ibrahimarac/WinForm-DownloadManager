@@ -1,0 +1,79 @@
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucDownloader.resources
+E:\7 Kasım\12. Hafta\Uygulamalar\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmNewDownload.resources
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmNewDownload.resources
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucDownloader.resources
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucComplatedDownloads.resources
+C:\Users\ibrahim\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucNotComplatedDownloads.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmNewDownload.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucComplatedDownloads.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucDownloader.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucNotComplatedDownloads.resources
+C:\Users\Abraham-PC\Desktop\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\bin\Debug\DownloadManager.exe.config
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.exe
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.pdb
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\bin\Debug\DownloadManager.exe
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\bin\Debug\DownloadManager.pdb
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.frmNewDownload.resources
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.UserControls.ucComplatedDownloads.resources
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.UserControls.ucDownloader.resources
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.UserControls.ucNotComplatedDownloads.resources
+G:\Kurslar\Kaynaklar\DownloadManager-Ders Notu\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmNewDownload.resources
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucComplatedDownloads.resources
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucDownloader.resources
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucNotComplatedDownloads.resources
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+D:\Kurslar\Projeler\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojAssemblyReference.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\bin\Debug\DownloadManager.exe.config
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\bin\Debug\DownloadManager.exe
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\bin\Debug\DownloadManager.pdb
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.frmNewDownload.resources
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucComplatedDownloads.resources
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucDownloader.resources
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.UserControls.ucNotComplatedDownloads.resources
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.csproj.CoreCompileInputs.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.exe
+D:\Kurslar\Kurs Kaynakları\Projeler\GitHub Projects\Download Manager\DownloadManager\obj\Debug\DownloadManager.pdb
